@@ -20,8 +20,6 @@
   </picture>
 </p>
 
-<p align="center"><sub>Banner：爱弥斯 · 小爱通讯预告壁纸 · Art © Kuro Games /《鸣潮》</sub></p>
-
 <!-- 底部横幅 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7fd8e0,100:f4a6c6&height=110&section=footer" alt="footer" />
