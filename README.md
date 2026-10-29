@@ -9,20 +9,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1200&color=B83D78&center=true&vCenter=true&width=760&lines=Bon+voyage;May+your+path+be+clear;May+you+get+to+where+dreams+are+all+crystalline+and+sweet" alt="typing" />
 </p>
 
-<p align="center">愿春风祝颂你的旅途</p>
-
 ---
 
 ### 📊 统计 · Stats
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=moonbow0407&show_icons=true&hide_border=true&bg_color=14172e&title_color=f4a6c6&icon_color=7fd8e0&text_color=f5eef3" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=moonbow0407&show_icons=true&hide_border=true&bg_color=fff8fb&title_color=b83d78&icon_color=7fd8e0&text_color=1b1f3b" alt="stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=moonbow0407&layout=compact&hide_border=true&bg_color=14172e&title_color=f4a6c6&text_color=f5eef3" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonbow0407&layout=compact&hide_border=true&bg_color=fff8fb&title_color=b83d78&text_color=1b1f3b" alt="top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=moonbow0407&hide_border=true&background=14172E&stroke=2E3466&ring=F4A6C6&fire=F4A6C6&currStreakNum=F5EEF3&sideNums=F5EEF3&currStreakLabel=F4A6C6&sideLabels=B3B2C8&dates=B3B2C8" />
+    <img src="https://streak-stats.demolab.com?user=moonbow0407&hide_border=true&background=FFF8FB&stroke=F4A6C6&ring=F4A6C6&fire=B83D78&currStreakNum=1B1F3B&sideNums=1B1F3B&currStreakLabel=B83D78&sideLabels=5D5F7A&dates=5D5F7A" alt="GitHub streak" />
   </picture>
 </p>
 
